@@ -1,2 +1,2 @@
-# Anota-es-do-git
+# Anotações básicas do GIT
 Anotações básicas para utilizar o git
